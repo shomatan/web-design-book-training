@@ -24,8 +24,13 @@ ul {
 
 a {
   color: #3583aa;
+  text-decoration: none;
 }
 
 a:visited {
   color: #788d98;
+}
+
+a:hover {
+  text-decoration: underline;
 }
