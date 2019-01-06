@@ -40,3 +40,11 @@ header {
   height: 100;
   margin: 0 auto;
 }
+
+.logo {
+  float: left;
+}
+
+.global-nav {
+  float: right;
+}
