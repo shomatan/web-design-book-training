@@ -58,3 +58,6 @@ header {
   list-style: none;
 }
 
+.global-nav li a {
+  color: #ffffff;
+}
