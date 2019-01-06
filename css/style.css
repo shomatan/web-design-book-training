@@ -43,8 +43,10 @@ header {
 
 .logo {
   float: left;
+  margin-top: 50px;
 }
 
 .global-nav {
   float: right;
+  margin-top: 60px;
 }
