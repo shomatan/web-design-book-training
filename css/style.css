@@ -38,4 +38,5 @@ a:hover {
 header {
   width: 960;
   height: 100;
+  margin: 0 auto;
 }
