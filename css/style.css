@@ -55,5 +55,6 @@ header {
   float: left;
   margin: 0 20px;
   font-size: 20px;
+  list-style: none;
 }
 
