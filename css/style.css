@@ -76,3 +76,8 @@ header {
   width: 960px;
   margin: 0 auto;
 }
+
+footer {
+  text-align: center;
+  color: #ffffff;
+}
