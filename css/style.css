@@ -94,3 +94,7 @@ footer small {
   color: #ffffff;
   font-family: 'Bitter', serif;
 }
+
+#index .content {
+  margin-top: 150px;
+}
