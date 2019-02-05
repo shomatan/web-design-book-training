@@ -112,4 +112,7 @@ footer small {
   font-family: 'Bitter', serif;
   width: 185px;
   display: block;
+  text-align: center;
+  line-height: 50px;
+  margin-top: 20px;
 }
