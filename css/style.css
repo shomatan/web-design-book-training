@@ -424,4 +424,26 @@ a img:hover {
     margin: 0 8px;
   }
 
+  #wrap {
+    margin-top: 40px;
+    padding: 35px 0 0;
+  }
+
+  .content {
+    width: 100%;
+  }
+
+  .main {
+    float: none;
+    width: auto;
+    margin: 0 5%;
+  }
+
+  h2 img {
+    max-width: 100%;
+  }
+
+  #portfolio {
+    background-image: url(../images/bg-portfolio-sp.jpg);
+  }
 }
